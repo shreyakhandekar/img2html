@@ -8,7 +8,17 @@ in various applicable fields for developer as well as for non-technical user.
 
 Implementation:
 
+Before and after thresholding: 
+
+
 ![input img 1](https://user-images.githubusercontent.com/52710267/128495496-3b28f488-839d-4785-b7e9-b392eb1919f3.png)
 
 Input Image 
+
+
+![output img 1](https://user-images.githubusercontent.com/52710267/128495736-f8f4d13b-e352-43d2-a964-b47a841e226a.png)
+
+Output Image 
+
+User has to follow Sign conventions to create desired web page
 
